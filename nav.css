@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+.L_nav {
+  padding: 20px;
+  box-shadow: 2px 2px 10px rgba(232, 232, 232, 0.5);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.L_nav ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+}
+.L_nav a {
+  color: #000000;
+  text-decoration: none;
+}
