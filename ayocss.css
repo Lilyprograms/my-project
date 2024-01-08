@@ -1,0 +1,6 @@
+.phase1{
+    display: flex;
+    justify-content: space-between;
+    background-color: pink;
+    font-size: 34px;
+}
