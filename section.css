@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.section{
+    background-color: darkgreen;
+    height: 60px;
+    width: 60px;
+    
+}
